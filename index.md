@@ -1,4 +1,4 @@
- # Aditya Vardhan's first CS193 Lab
+# Aditya Vardhan's first CS193 Lab
  - This Lab Teaches us new stuff
 - This lab is cool
 -I made up the above two lines cause i had to.
